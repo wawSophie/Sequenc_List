@@ -1,13 +1,9 @@
-package com.DS.List;
+package List;
 
 /**
  * Author:Sophie
  * Created: 2019/7/16
  */
-
-import com.sun.xml.internal.ws.addressing.WsaTubeHelperImpl;
-
-import java.nio.file.Path;
 
 /**
  * 带头循环单链表

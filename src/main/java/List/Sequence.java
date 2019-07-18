@@ -1,4 +1,4 @@
-package com.DS.List;
+package List;
 
 /**
  * Author:Sophie
@@ -156,6 +156,7 @@ public class Sequence {
         Thread.sleep(1000);
     }
 }
+
 class Person{
 
 }

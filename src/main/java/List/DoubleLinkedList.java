@@ -1,6 +1,4 @@
-package com.DS.List;
-
-import java.awt.font.TextHitInfo;
+package List;
 
 /**
  * Author:Sophie

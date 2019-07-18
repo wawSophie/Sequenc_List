@@ -1,4 +1,4 @@
-package com.DS.List;
+package List;
 
 /**
  * Author:Sophie
